@@ -34,4 +34,3 @@ Status: 🟢 Available for freelance & collaborations
 ```
 
 ---
-<p align="center"><sub>Generated with retro terminal vibes. Feel free to fork!</sub></p>
