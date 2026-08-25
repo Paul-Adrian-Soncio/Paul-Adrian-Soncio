@@ -1,16 +1,37 @@
-## Hi there 👋
+```text
+███ █     █     █   █ █   █  ███  
+ █  █     █     █   █ ██  █ █   █ 
+ █  █     █     █   █ █ █ █ █████ 
+ █  █     █     █   █ █  ██ █   █ 
+███ █████ █████  ███  █   █ █   █ 
+```
+### 📟 System Overview
 
-<!--
-**Paul-Adrian-Soncio/Paul-Adrian-Soncio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+USER@GITHUB:~$_ 
+-------------------------
+OS: Windows
+Location: Philippines
+Current Focus: AI assisted web development
+Status: 🟢 Available for freelance & collaborations
+-------------------------
+```
 
-Here are some ideas to get you started:
+### 🚀 Core Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+[ Languages ]  #######################-------- (Typescript, Javascript, CSS)
+[ Frameworks ] ##################------------- (React, Next.js, Node.js)
+[ Databases ]  #############------------------ (PostgreSQL, Supabase)
+```
+
+### 📬 Connect With Me
+
+```text
+ 💻 Website  :: https://paul-adrian.vercel.app
+ 📧 Email    :: pauladrian.soncio@gmail.com
+ 💼 LinkedIn :: https://www.linkedin.com/in/pauladriansoncio/
+```
+
+---
+<p align="center"><sub>Generated with retro terminal vibes. Feel free to fork!</sub></p>
